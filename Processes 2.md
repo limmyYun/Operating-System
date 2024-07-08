@@ -7,3 +7,13 @@
       * direct / indirect
       * synchronous(blocking) / asynchronous(non-blocking)
       * automatic / explicit buffering
+* IPC 통신의 예시
+  * Shared memory
+    * POSIX Shared Memory
+  * Message passing
+    * Pipes
+      * Ordinary Pipes
+      * Named Pipes
+* Client - Server communication (Network)
+  * Sockets
+  * RPCs
